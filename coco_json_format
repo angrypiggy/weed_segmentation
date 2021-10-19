@@ -1,0 +1,6 @@
+info: description, url, version, year, contributor, date_created
+licenses: url, id, name
+images: license, filename, coco_url, height, width, date_captured, flickr_url, id
+annotation: segmentation, area, iscrowd, image_id, bbox, category_id, id
+categories: supercategory, id, name
+

@@ -1,0 +1,12 @@
+jupyter
+notebook
+Pillow
+numpy
+scikit-image
+scipy
+tqdm
+Shapely
+torch
+yaml
+opencv-python
+
