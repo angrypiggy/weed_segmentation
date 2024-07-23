@@ -11,7 +11,7 @@ This work is developed based on the tutorial published by the Pytorch community 
 
 ## Example
 Some prediction results on the CWFID and real garden images taken on Wilson center's roof.
-![alt text]([https://github.com/UM-ARM-Lab/weed_detection/blob/main/report/pred01.png "CWFID example 1"](https://drive.google.com/file/d/1vr5T1IivrwIy3bXCpmldHWKzQSQz0aRK/view?usp=drive_link))
+![alt text(https://drive.google.com/file/d/1vr5T1IivrwIy3bXCpmldHWKzQSQz0aRK/view?usp=drive_link)
 
 ![alt text](https://github.com/UM-ARM-Lab/weed_detection/blob/main/report/pred02.png "CWFID example 2")
 
